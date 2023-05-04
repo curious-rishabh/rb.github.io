@@ -1,4 +1,7 @@
-# Terminal Like Portfoilo Website
+<h2 align="center">
+ Terminal Like Portfoilo Website<br/>
+  <a href="https://curious-rishabh.github.io/rb.github.io/" target="_blank">Terminal Portfolio</a>
+</h2>
 We geeks spends most of our time on a terminal so why didn't his portfoilo look a like. 
 
 ### Technology Stack: 
@@ -6,11 +9,5 @@ We geeks spends most of our time on a terminal so why didn't his portfoilo look 
 * CSS
 * Javascript
 
-
 ## DEMO
-
 [Demo link](https://curious-rishabh.github.io/rb.github.io/)
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-# rb.github.io
